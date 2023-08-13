@@ -1,0 +1,61 @@
+/* styles.css */
+
+/* Apply general styling to the body or a container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style the header */
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the WorkoutForm */
+  .workout-form {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the WorkoutList */
+  .workout-list {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  /* styles.css */
+  
+  .eating-habits{
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+
+.form-group {
+    margin-bottom: 20px; /* Adjust the value as needed */
+    text-align: center;
+  }
+  /* styles.css */
+
+.submit-button {
+    background-color: #007bff; /* Blue color, you can change this */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .submit-button:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+  }
+  
+  
+  
+  /* Add more styles for other components as needed */
+  
